@@ -1,0 +1,12 @@
+.My-Router{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-color: aqua;
+  }
+
+.My-Router  button{
+    margin: 20px;
+}
